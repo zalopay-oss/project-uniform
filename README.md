@@ -1,4 +1,6 @@
 # Project T-shirt
+
+![Build Status](https://img.shields.io/badge/build-t--shirt-brightgreen)
 - [Project T-shirt](#project-t-shirt)
   - [Giới thiệu](#gi%e1%bb%9bi-thi%e1%bb%87u)
   - [Design T-shirt](#design-t-shirt)
@@ -25,7 +27,7 @@ Chúng mình đã tổng hợp các mẫu thiết kế áo ở các mốc thời
   <img src="./t-shirt/t-shirt-09-2019.png" width=700>
 </div
 
-Chiếc áo thứ hai khá đặc biệt vì được thiết kế cho các bạn Fresher 2019. Logo ZaloPay trước ngực được cách điệu với họa tiết đường thẳng và chấm tròn như kết cấu vững chắc của các phân tử, "Technion" để đại diện cho một thế hệ các kĩ sư công nghệ trẻ, năng động và hiện đại. Slogan "Solid foundation - Solid future" nhấn mạnh tầm quan trọng của việc xây dựng một nền tảng kiến thức vững chãi mà cụ thể là trong quá trình trainning fresher.
+Chiếc áo thứ hai khá đặc biệt vì được thiết kế cho các bạn Fresher 2019. Logo ZaloPay trước ngực được cách điệu với họa tiết đường thẳng và chấm tròn như kết cấu vững chắc của các phân tử, **"Technion"** để đại diện cho một thế hệ các kĩ sư công nghệ trẻ, năng động và hiện đại. Slogan **"Solid foundation - Solid future"** nhấn mạnh tầm quan trọng của việc xây dựng một nền tảng kiến thức vững chãi mà cụ thể là trong quá trình trainning fresher.
 
 ### 03/2020
 <div align="center">
